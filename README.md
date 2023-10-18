@@ -1,6 +1,10 @@
-# hello-world
-Testing push
+# Hello-World
+Testing push through VSCode
 
-## subheading
+## Subheading
 
 remote pushing
+
+## Another Heading
+
+Changed the headings
