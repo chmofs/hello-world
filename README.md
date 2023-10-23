@@ -22,8 +22,11 @@
 # Table Syntax
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| First Name | Last Name |
+| Hank | Miller |
+| Heidi | Miller |
+| Xen | Miller |
+| Niccole | Miller |
 
 ### Strikethrough
 ~~The world is flat.~~
