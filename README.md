@@ -1,10 +1,37 @@
-# Hello-World
-Testing push through VSCode
+# 1. Testing the Github interface
+- Setting up the ssh interface
+- Create the ssh key (public and private)
+- Test the connection with clone of a repository
 
-## Subheading
+# 2. Results
+- Connection was successful :smile:
 
-remote pushing
+# 3. Emoji Link
+<https://www.webfx.com/tools/emoji-cheat-sheet>
 
-## Another Heading
+# ✍ ☠
 
-Changed the headings
+**Bold Text** - regular text
+
+> blockquote
+
+`code`
+
+[link title](https://www.example.com)
+
+# Table Syntax
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+### Strikethrough
+~~The world is flat.~~
+
+I need to highlight these <mark>very important words</mark>.
+
+### Subscripts
+H<sub>2</sub>O
+
+### Superscript
+X<sup>2</sup>
