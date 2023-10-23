@@ -20,9 +20,8 @@
 [link title](https://www.example.com)
 
 # Table Syntax
-| Syntax | Description |
-| ----------- | ----------- |
 | First Name | Last Name |
+| ----------- | ----------- |
 | Hank | Miller |
 | Heidi | Miller |
 | Xen | Miller |
